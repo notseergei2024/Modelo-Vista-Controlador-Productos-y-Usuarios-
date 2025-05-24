@@ -1,0 +1,11 @@
+com\mycompany\mvc_productosusuarios\controlador\ProductoControlador.class
+com\mycompany\mvc_productosusuarios\controlador\UsuarioControlador$1.class
+com\mycompany\mvc_productosusuarios\controlador\ProductoControlador$1.class
+com\mycompany\mvc_productosusuarios\controlador\UsuarioControlador.class
+com\mycompany\mvc_productosusuarios\App.class
+com\mycompany\mvc_productosusuarios\vista\ProductoVista.class
+com\mycompany\mvc_productosusuarios\vista\UsuarioVista.class
+com\mycompany\mvc_productosusuarios\modelo\ConexionDB.class
+com\mycompany\mvc_productosusuarios\modelo\Usuario.class
+com\mycompany\mvc_productosusuarios\vista\SeleccionVista.class
+com\mycompany\mvc_productosusuarios\modelo\Producto.class
